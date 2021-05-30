@@ -28,14 +28,14 @@ while ans:
             pyautogui.click()
             time.sleep(2.5)
         # FICA CORRENDO
-            pyautogui.keyDown("r")
+            pyautogui.keyDown("w")
             time.sleep(1.5)
             pyautogui.click()
             pyautogui.keyDown('left')
             time.sleep(1)
             pyautogui.keyUp('left')
             time.sleep(0.7)
-            pyautogui.keyDown('g')
+            pyautogui.keyDown('d')
             time.sleep(0.7)
             pyautogui.keyDown('right')
             time.sleep(0.8)
@@ -43,7 +43,7 @@ while ans:
             time.sleep(0.5)
 
     elif ans=="2":
-      print("\n 552122022005#0777")
+      print("\n memcpy#2707")
       break
     elif ans=="3":
       print("\n Goodbye") 
