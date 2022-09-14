@@ -43,7 +43,7 @@ while ans:
             time.sleep(0.5)
 
     elif ans=="2":
-      print("\n memcpy#2707")
+      print("\n he#1111")
       break
     elif ans=="3":
       print("\n Goodbye") 
